@@ -100,8 +100,7 @@ plt.ylabel("Number of Wallets")
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-<img width="813" height="501" alt="image" src="https://github.com/user-attachments/assets/9eaecf88-976a-4a16-b175-c37b7846a20e" />
-
+https://github.com/user-attachments/assets/9eaecf88-976a-4a16-b175-c37b7846a20e
 
 
 
