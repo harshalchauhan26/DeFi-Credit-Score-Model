@@ -100,6 +100,10 @@ plt.ylabel("Number of Wallets")
 plt.grid(True)
 plt.tight_layout()
 plt.show()
+(https://raw.githubusercontent.com/harshalchauhan26/DeFi-Credit-Score-Model/main/
+
+)
+
 
 
 
