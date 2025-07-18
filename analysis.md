@@ -127,7 +127,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.6)
 plt.tight_layout()
 plt.show()
 
-467924982-9d08ea1e-992d-40a1-b0a1-2d6d207dc350.png
+
 
 
 
